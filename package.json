@@ -1,0 +1,61 @@
+{
+  "name": "devonfw-extension-pack",
+  "version": "1.0.0",
+  "description": "This extension contains the recommended extensions and tools to develop applications using the devonfw platform",
+  "icon": "devonfw-logo.png",
+  "galleryBanner": {
+    "color": "#162d4f",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Programming Languages"
+  ],
+  "keywords": [
+    "devonfw"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "donjayamanne.githistory",
+    "eg2.tslint",
+    "formulahendry.code-runner",
+    "esbenp.prettier-vscode",
+    "infinity1207.angular2-switcher",
+    "jakethashi.vscode-angular2-emmet",
+    "joelday.docthis",
+    "johnpapa.Angular2",
+    "ms-vscode.sublime-keybindings",
+    "msjsdiag.debugger-for-chrome",
+    "natewallace.angular2-inline",
+    "PeterJausovec.vscode-docker",
+    "vscjava.vscode-java-pack",
+    "robertohuertasm.vscode-icons",
+    "Shan.code-settings-sync",
+    "silverlakesoftware.searchdocsets-vscode",
+    "swyphcosmo.spellchecker",
+    "Telerik.nativescript",
+    "Thavarajan.ionic2",
+    "vsmobile.cordova-tools",
+    "WallabyJs.quokka-vscode",
+    "wesbos.theme-cobalt2",
+    "Arjun.swagger-viewer",
+    "ms-vscode.csharp",
+    "ms-vscode.cpptools",
+    "kalitaalexey.vscode-rust",
+    "joaompinto.asciidoctor-vscode",
+    "wayou.vscode-todo-highlight",
+    "ms-python.python",
+    "dcortes92.FreeMarker",
+    "pnp.polacode",
+    "eamodio.gitlens",
+    "jebbs.plantuml",
+    "github.vscode-pull-request-github"
+  ],
+  "publisher": "Capgemini SE",
+  "license": "Apache 2.0"
+}
