@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This extension contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
+  "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
+  "publisher": "Capgemini SE",
+  "license": "Apache 2.0",
   "galleryBanner": {
     "color": "#162d4f",
     "theme": "dark"
@@ -55,7 +58,5 @@
     "eamodio.gitlens",
     "jebbs.plantuml",
     "github.vscode-pull-request-github"
-  ],
-  "publisher": "Capgemini SE",
-  "license": "Apache 2.0"
+  ]
 }
