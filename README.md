@@ -1,8 +1,6 @@
 # devonfw VS Code extensions
 
-## Extensions
-
-The extensions included in this pack several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:
+The extensions included in this pack involve several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:
 
 - Settings Sync
   - [Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
