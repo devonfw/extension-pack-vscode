@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "description": "This extension contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.26.0"
+    "vscode": "^1.30.0"
   },
   "categories": [
     "Extension Packs",
@@ -58,6 +58,8 @@
     "pnp.polacode",
     "eamodio.gitlens",
     "jebbs.plantuml",
-    "github.vscode-pull-request-github"
+    "github.vscode-pull-request-github",
+    "yycalm.linecount",
+    "ms-vsliveshare.vsliveshare"
   ]
 }

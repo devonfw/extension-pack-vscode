@@ -2,6 +2,9 @@
 
 The extensions included in this pack involve several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:
 
+- Team Collaboration
+  - [ms-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+    - Please follow the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode
 - Settings Sync
   - [Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - Project Management
@@ -31,6 +34,8 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
   - [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
   - [dcortes92.FreeMarker](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker)
   - [pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+  - [yycalm.linecount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
+    - Please follow the instructions to configure properly this extension.
 - Code runners
   - [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
@@ -82,7 +87,13 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
 - AsciiDoc
   - [joaompinto.asciidoctor-vscode](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
 
-## AsciiDoc support
+## Requirements
+
+### Microsoft Visual Studio Code
+
+In order to install this package **Microsoft Visual Studio Code 1.30.0** at least must be installed. It is recommended to upgrade VS Code in any case.
+
+### AsciiDoc support
 
 In order to be able to use the AsciiDoc extension you will need to install **Ruby** on your system and the **Asciidoctor** tool running the following command in the terminal:
 
