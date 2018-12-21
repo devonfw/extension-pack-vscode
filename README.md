@@ -4,7 +4,7 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
 
 - Team Collaboration
   - [ms-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-    - Please follow the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode
+    - Please read the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode
 - Settings Sync
   - [Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - Project Management
