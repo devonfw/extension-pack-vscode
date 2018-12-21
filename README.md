@@ -29,6 +29,16 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
       "parser": "typescript"
     }
     ```
+    - Last but not least, the prettier config can be also included in every JavaScript/TypeScript project inside the `package.json` file adding its own key:
+    ```json
+    "prettier": {
+      "singleQuote": true,
+      "trailingComma": "all",
+      "arrowParens": "always",
+      "semi": true
+    }
+    ```
+    - Refer to the official documentation https://prettier.io/docs/en/configuration.html for further details.
   - [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
   - [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
   - [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
