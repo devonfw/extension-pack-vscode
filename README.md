@@ -29,7 +29,7 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
       "parser": "typescript"
     }
     ```
-    - Last but not least, the prettier config can be also included in every JavaScript/TypeScript project inside the `package.json` file adding its own key:
+    - Last but not least, the prettier configuration can be also included in every JavaScript/TypeScript project inside the `package.json` file adding its own key:
     ```json
     "prettier": {
       "singleQuote": true,
