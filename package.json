@@ -60,6 +60,7 @@
     "jebbs.plantuml",
     "github.vscode-pull-request-github",
     "yycalm.linecount",
-    "ms-vsliveshare.vsliveshare"
+    "ms-vsliveshare.vsliveshare",
+    "pranaygp.vscode-css-peek"
   ]
 }

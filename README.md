@@ -59,6 +59,8 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
   - [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   - [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
   - [pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- CSS
+  - [pranaygp.vscode-css-peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Debuggers
   - [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
   - [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
