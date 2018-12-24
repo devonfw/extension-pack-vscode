@@ -73,7 +73,7 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
 - UML
   - [jebbs.plantuml](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - Rust
-  - [kalitaalexey.vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust)
+  - [rust-lang.rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
 - Python
   - [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - C++

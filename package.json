@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "3.3.0",
+  "version": "3.2.0",
   "description": "This extension contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
@@ -50,7 +50,7 @@
     "Arjun.swagger-viewer",
     "ms-vscode.csharp",
     "ms-vscode.cpptools",
-    "kalitaalexey.vscode-rust",
+    "rust-lang.rust",
     "joaompinto.asciidoctor-vscode",
     "wayou.vscode-todo-highlight",
     "ms-python.python",
