@@ -85,6 +85,9 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
     - [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
     - [vscjava.vscode-java-test](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
     - [vscjava.vscode-maven](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
+  - The following extensions add support and tools to develop **Spring Boot** Java applications:
+    - [Pivotal.vscode-spring-boot](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot)
+    - [vscjava.vscode-spring-initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)
   - In order to make Java work properly you must set the `java.home` variable in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_)
 - Key bindings
   - [ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)

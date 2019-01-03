@@ -1,8 +1,8 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "3.2.0",
-  "description": "This extension contains the recommended extensions and tools to develop applications using the devonfw platform",
+  "version": "3.3.0",
+  "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
   "publisher": "devonfw",
@@ -61,6 +61,8 @@
     "github.vscode-pull-request-github",
     "yycalm.linecount",
     "ms-vsliveshare.vsliveshare",
-    "pranaygp.vscode-css-peek"
+    "pranaygp.vscode-css-peek",
+    "vscjava.vscode-spring-initializr",
+    "Pivotal.vscode-spring-boot"
   ]
 }
