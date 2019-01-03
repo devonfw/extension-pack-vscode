@@ -58,7 +58,6 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
   - [Thavarajan.ionic2](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
   - [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   - [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
-  - [pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - CSS
   - [pranaygp.vscode-css-peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Debuggers
