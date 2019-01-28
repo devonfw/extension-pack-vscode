@@ -3,30 +3,25 @@
 The extensions included in this pack involve several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:
 
 - Team Collaboration
-  - [ms-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+  - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
     - Please read the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode
 - Settings Sync
-  - [Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+  - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - Project Management
-  - [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+  - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - Code and documentation helpers
-  - [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-  - [CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-  - [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+  - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - In order to avoid TS lint errors, you must set the `prettier.singleQuote` and `prettier.semi` variables to `true` in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_).
     - Another useful feature to avoid TS lint errors is to set the `prettier.trailingComma` variable to `all` to trail commas wherever possible.
     - Besides this, a `.prettierrc` JSON file can be included in the root folder of any Angular project with the following configuration:
     ```json
     {
-      "printWidth": 80,
-      "tabWidth": 2,
-      "useTabs": false,
-      "semi": true,
       "singleQuote": true,
       "trailingComma": "all",
-      "bracketSpacing": true,
-      "arrowParens": "avoid",
-      "parser": "typescript"
+      "arrowParens": "always",
+      "semi": true
     }
     ```
     - Last but not least, the prettier configuration can be also included in every JavaScript/TypeScript project inside the `package.json` file adding its own key:
@@ -39,67 +34,67 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
     }
     ```
     - Refer to the official documentation https://prettier.io/docs/en/configuration.html for further details.
-  - [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-  - [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
-  - [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-  - [dcortes92.FreeMarker](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker)
-  - [pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-  - [yycalm.linecount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
+  - [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+  - [Search Docsets](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
+  - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+  - [FreeMarker](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker)
+  - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+  - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
     - Please follow the instructions to configure properly this extension.
 - Code runners
-  - [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-  - [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+  - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+  - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - Angular, Ionic, NativeScript and TypeScript
-  - [johnpapa.Angular2](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-  - [eg2.tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-  - [infinity1207.angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
-  - [jakethashi.vscode-angular2-emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
-  - [natewallace.angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
-  - [Thavarajan.ionic2](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
-  - [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
-  - [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
+  - [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
+  - [Angular v7 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+  - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+  - [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
+  - [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
+  - [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
+  - [ionic 2 Commands with Snippets](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
+  - [NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
+  - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
 - CSS
-  - [pranaygp.vscode-css-peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+  - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Debuggers
-  - [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-  - [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+  - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - Git
-  - [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-  - [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-  - [github.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+  - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - Swagger and API definition
-  - [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+  - [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
 - UML
-  - [jebbs.plantuml](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+  - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - Rust
-  - [rust-lang.rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+  - [Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
 - Python
-  - [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - C++
-  - [ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+  - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - C#
-  - [ms-vscode.csharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+  - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 - Java
-  - [vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) that will install automatically:
-    - [redhat.java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
-    - [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-    - [vscjava.vscode-java-test](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
-    - [vscjava.vscode-maven](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
+  - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) that will install automatically:
+    - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+    - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+    - [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
+    - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
   - The following extensions add support and tools to develop **Spring Boot** Java applications:
-    - [Pivotal.vscode-spring-boot](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot)
-    - [vscjava.vscode-spring-initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)
+    - [Spring Boot Tools](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot)
+    - [Spring Initializr Java Support](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)
   - In order to make Java work properly you must set the `java.home` variable in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_)
 - Key bindings
-  - [ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+  - [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 - Docker
-  - [PeterJausovec.vscode-docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+  - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 - Themes
-  - [wesbos.theme-cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Press F1, choose **Color Theme** option and select **Cobalt**.
-  - [robertohuertasm.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Press F1, choose **File Icon Theme** option and select **VSCode Icons**.
+  - [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Press F1, choose **Color Theme** option and select **Cobalt**.
+  - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Press F1, choose **File Icon Theme** option and select **VSCode Icons**.
 - Spell checking
-  - [swyphcosmo.spellchecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
+  - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 - AsciiDoc
-  - [joaompinto.asciidoctor-vscode](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
+  - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
 
 ## Requirements
 
@@ -109,7 +104,9 @@ In order to install this package **Microsoft Visual Studio Code 1.30.0** at leas
 
 ### AsciiDoc support
 
-In order to be able to use the AsciiDoc extension you will need to install **Ruby** on your system and the **Asciidoctor** tool running the following command in the terminal:
+AsciiDoc extension comes with Asciidoctor.js library for preview bundled. If you want to use the Ruby version of Asciidoctor you need to change the `AsciiDoc.use_asciidoctor_js` setting to false.
+
+In order to be able to use the AsciiDoc Ruby version you have to install **Ruby** on your system and the **Asciidoctor** tool running the following command in the terminal:
 
 ```bash
 $ gem install asciidoctor
