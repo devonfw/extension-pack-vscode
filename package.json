@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
@@ -26,7 +26,7 @@
     "christian-kohler.path-intellisense",
     "CoenraadS.bracket-pair-colorizer",
     "donjayamanne.githistory",
-    "eg2.tslint",
+    "ms-vscode.vscode-typescript-tslint-plugin",
     "formulahendry.code-runner",
     "esbenp.prettier-vscode",
     "infinity1207.angular2-switcher",

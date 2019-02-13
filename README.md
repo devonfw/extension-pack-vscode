@@ -47,7 +47,7 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
 - Angular, Ionic, NativeScript and TypeScript
   - [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
   - [Angular v7 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-  - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+  - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
   - [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
   - [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
   - [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
