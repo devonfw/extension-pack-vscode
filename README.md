@@ -103,6 +103,10 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
 
 In order to install this package **Microsoft Visual Studio Code 1.30.0** at least must be installed. It is recommended to upgrade VS Code in any case.
 
+### C/C++ support
+
+See [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp) for a Guide on how to configure and use the extension enabling C/C++ support for Visual Studio Code. This provides support for cross-platform C and C++ development using VS Code on Windows, Linux, and macOS.
+
 ### AsciiDoc support
 
 AsciiDoc extension comes with Asciidoctor.js library for preview bundled. If you want to use the Ruby version of Asciidoctor you need to change the `AsciiDoc.use_asciidoctor_js` setting to false.
