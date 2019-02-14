@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
@@ -64,6 +64,7 @@
     "pranaygp.vscode-css-peek",
     "vscjava.vscode-spring-initializr",
     "Pivotal.vscode-spring-boot",
-    "nrwl.angular-console"
+    "nrwl.angular-console",
+    "viuschera.noctis"
   ]
 }
