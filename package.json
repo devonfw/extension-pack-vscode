@@ -65,6 +65,7 @@
     "vscjava.vscode-spring-initializr",
     "Pivotal.vscode-spring-boot",
     "nrwl.angular-console",
-    "viuschera.noctis"
+    "viuschera.noctis",
+    "vscjava.vscode-spring-boot-dashboard"
   ]
 }
