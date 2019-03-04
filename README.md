@@ -64,6 +64,7 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
   - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - Swagger and API definition
   - [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+  - [OpenAPI lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint)
 - UML
   - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - Rust
