@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "3.7.0",
+  "version": "3.8.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
@@ -29,13 +29,11 @@
     "ms-vscode.vscode-typescript-tslint-plugin",
     "formulahendry.code-runner",
     "esbenp.prettier-vscode",
-    "infinity1207.angular2-switcher",
     "jakethashi.vscode-angular2-emmet",
     "joelday.docthis",
     "johnpapa.Angular2",
     "ms-vscode.sublime-keybindings",
     "msjsdiag.debugger-for-chrome",
-    "natewallace.angular2-inline",
     "PeterJausovec.vscode-docker",
     "vscjava.vscode-java-pack",
     "robertohuertasm.vscode-icons",
@@ -67,6 +65,7 @@
     "nrwl.angular-console",
     "viuschera.noctis",
     "vscjava.vscode-spring-boot-dashboard",
-    "mermade.openapi-lint"
+    "mermade.openapi-lint",
+    "hardikpthv.ngrxsnippets"
   ]
 }

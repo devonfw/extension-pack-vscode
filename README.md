@@ -48,12 +48,11 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
   - [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
   - [Angular v7 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
   - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
-  - [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
   - [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
-  - [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
   - [ionic 2 Commands with Snippets](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
   - [NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
+  - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
 - CSS
   - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Debuggers
