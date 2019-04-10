@@ -41,7 +41,6 @@
     "silverlakesoftware.searchdocsets-vscode",
     "swyphcosmo.spellchecker",
     "Telerik.nativescript",
-    "Thavarajan.ionic2",
     "vsmobile.cordova-tools",
     "WallabyJs.quokka-vscode",
     "wesbos.theme-cobalt2",
@@ -66,6 +65,7 @@
     "viuschera.noctis",
     "vscjava.vscode-spring-boot-dashboard",
     "mermade.openapi-lint",
-    "hardikpthv.ngrxsnippets"
+    "hardikpthv.ngrxsnippets",
+    "fivethree.vscode-ionic-snippets"
   ]
 }
