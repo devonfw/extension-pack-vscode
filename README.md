@@ -41,6 +41,7 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
   - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
   - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
     - Please follow the instructions to configure properly this extension.
+  - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
@@ -97,6 +98,8 @@ The extensions included in this pack involve several aspects as Angular, Ionic a
   - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 - AsciiDoc
   - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
+- YAML
+  - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 ## Requirements
 
