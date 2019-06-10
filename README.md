@@ -2,6 +2,8 @@
 
 The extensions included in this pack involve several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:
 
+- Remote Development
+  - [Visual Studio Code Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - Team Collaboration
   - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
     - Please read the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode

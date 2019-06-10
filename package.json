@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "3.8.2",
+  "version": "4.0.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.30.0"
+    "vscode": "^1.35.0"
   },
   "categories": [
     "Extension Packs",
@@ -68,6 +68,7 @@
     "hardikpthv.ngrxsnippets",
     "fivethree.vscode-ionic-snippets",
     "redhat.vscode-yaml",
-    "Tyriar.lorem-ipsum"
+    "Tyriar.lorem-ipsum",
+    "ms-vscode-remote.vscode-remote-extensionpack"
   ]
 }
