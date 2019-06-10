@@ -1,6 +1,6 @@
 # devonfw VS Code extensions
 
-The extensions included in this pack involve several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:
+The extensions included in this pack involve several aspects as Remote Development, Team Collaboration, Project Management, devonfw projects development, support for other interesting languages and technologies, code running, testing, linting and IDE configuration:
 
 - Remote Development
   - [Visual Studio Code Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
