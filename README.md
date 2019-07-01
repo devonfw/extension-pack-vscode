@@ -102,6 +102,8 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
 - YAML
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- Miscellaneous (printing etc)
+  - [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
 
 ## Requirements
 

@@ -69,6 +69,7 @@
     "fivethree.vscode-ionic-snippets",
     "redhat.vscode-yaml",
     "Tyriar.lorem-ipsum",
-    "ms-vscode-remote.vscode-remote-extensionpack"
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "nobuhito.printcode"
   ]
 }
