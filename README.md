@@ -44,14 +44,17 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
     - Please follow the instructions to configure properly this extension.
   - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
+  - [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
+    - This extension assumes that you have the binaries `npm` and `mvn` on your PATH.
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- Angular, Ionic, NativeScript and TypeScript
+- Angular, Ionic, React Native, NativeScript and TypeScript
   - [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
-  - [Angular v7 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+  - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+  - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
   - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
-  - [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
   - [Ionic 4 Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=fivethree.vscode-ionic-snippets)
   - [NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
