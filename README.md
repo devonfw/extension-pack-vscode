@@ -5,7 +5,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 - Remote Development
   - [Visual Studio Code Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - Team Collaboration
-  - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+  - [VS Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
     - Please read the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode
 - Settings Sync
   - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
