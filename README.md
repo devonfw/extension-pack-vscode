@@ -41,12 +41,10 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
   - [FreeMarker](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker)
   - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-  - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
     - Please follow the instructions to configure properly this extension.
   - [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
     - This extension assumes that you have the binaries `npm` and `mvn` on your PATH.
   - [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
-  - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
@@ -106,6 +104,10 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
 - YAML
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- Miscellaneous
+  - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
+  - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
+  - [Resource Monitor](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
 
 ## Requirements
 
