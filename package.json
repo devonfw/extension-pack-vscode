@@ -4,7 +4,7 @@
   "version": "4.2.1",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
-  "repository": "https://github.com/devonfw/devonfw-extension-pack-vscode",
+  "repository": "https://github.com/devonfw/extension-pack-vscode",
   "publisher": "devonfw",
   "license": "Apache 2.0",
   "galleryBanner": {
