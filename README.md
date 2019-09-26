@@ -49,7 +49,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - Angular, Ionic, React Native, NativeScript and TypeScript
-  - [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
   - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
   - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
@@ -67,7 +66,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - Swagger and API definition
-  - [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
   - [OpenAPI lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint)
 - UML
   - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
