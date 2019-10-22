@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "4.2.2",
+  "version": "4.2.3",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -33,7 +33,7 @@
     "johnpapa.Angular2",
     "ms-vscode.sublime-keybindings",
     "msjsdiag.debugger-for-chrome",
-    "PeterJausovec.vscode-docker",
+    "ms-azuretools.vscode-docker",
     "vscjava.vscode-java-pack",
     "robertohuertasm.vscode-icons",
     "Shan.code-settings-sync",
