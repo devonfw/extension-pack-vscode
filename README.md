@@ -57,6 +57,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
   - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
+  - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 - CSS
   - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Debuggers

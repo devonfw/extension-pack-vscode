@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "4.2.3",
+  "version": "4.3.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.35.0"
+    "vscode": "^1.40.0"
   },
   "categories": [
     "Extension Packs",
@@ -70,6 +70,7 @@
     "redhat.fabric8-analytics",
     "msjsdiag.vscode-react-native",
     "nobuhito.printcode",
-    "mutantdino.resourcemonitor"
+    "mutantdino.resourcemonitor",
+    "orta.vscode-jest"
   ]
 }
