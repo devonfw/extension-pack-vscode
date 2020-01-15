@@ -68,6 +68,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - Swagger and API definition
   - [OpenAPI lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint)
+  - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - UML
   - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - Rust

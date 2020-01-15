@@ -71,6 +71,7 @@
     "msjsdiag.vscode-react-native",
     "nobuhito.printcode",
     "mutantdino.resourcemonitor",
-    "orta.vscode-jest"
+    "orta.vscode-jest",
+    "humao.rest-client"
   ]
 }
