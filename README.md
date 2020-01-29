@@ -102,6 +102,8 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 - AsciiDoc
   - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
+- XML
+  - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - YAML
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 - Miscellaneous
