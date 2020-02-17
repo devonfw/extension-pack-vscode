@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "4.5.0",
+  "version": "4.6.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -23,6 +23,7 @@
   ],
   "extensionPack": [
     "alefragnani.project-manager",
+    "angular.ng-template",
     "christian-kohler.path-intellisense",
     "CoenraadS.bracket-pair-colorizer",
     "dcortes92.FreeMarker",
