@@ -26,6 +26,7 @@
     "angular.ng-template",
     "christian-kohler.path-intellisense",
     "CoenraadS.bracket-pair-colorizer",
+    "dbaeumer.vscode-eslint",
     "dcortes92.FreeMarker",
     "donjayamanne.githistory",
     "eamodio.gitlens",
