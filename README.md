@@ -69,7 +69,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - Swagger and API definition
-  - [OpenAPI lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint)
+  - [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42crunch.vscode-openapi)
   - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - UML
   - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
