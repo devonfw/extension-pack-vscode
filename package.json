@@ -75,6 +75,7 @@
     "WallabyJs.quokka-vscode",
     "wayou.vscode-todo-highlight",
     "wesbos.theme-cobalt2",
-    "yycalm.linecount"
+    "yycalm.linecount",
+    "hediet.vscode-drawio"
   ]
 }
