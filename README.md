@@ -103,7 +103,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 - Spell checking
   - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 - AsciiDoc
-  - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
+  - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode)
 - XML
   - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - YAML
