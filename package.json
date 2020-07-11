@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "4.8.0",
+  "version": "4.8.1",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -37,7 +37,7 @@
     "hardikpthv.ngrxsnippets",
     "humao.rest-client",
     "jebbs.plantuml",
-    "joaompinto.asciidoctor-vscode",
+    "asciidoctor.asciidoctor-vscode",
     "joelday.docthis",
     "johnpapa.Angular2",
     "liviuschera.noctis",
