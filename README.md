@@ -55,7 +55,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
-  - [Ionic 4 Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=fivethree.vscode-ionic-snippets)
+  - [Ionic Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=fivethree.vscode-ionic-snippets)
   - [NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
   - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
@@ -112,6 +112,8 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
   - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
   - [Resource Monitor](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
+  - [Draw.io Diagram Editor](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+    - Embeddded version of the Draw.io graphical diagram editor. Uses an offline version of Draw.io by default.
 
 ## Requirements
 
