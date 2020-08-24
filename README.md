@@ -7,8 +7,6 @@ The extensions included in this pack involve several aspects as Remote Developme
 - Team Collaboration
   - [VS Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
     - Please read the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode
-- Settings Sync
-  - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - Project Management
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - Code and documentation helpers
