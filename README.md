@@ -111,7 +111,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
   - [Resource Monitor](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
   - [Draw.io Diagram Editor](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-    - Embeddded version of the Draw.io graphical diagram editor. Uses an offline version of Draw.io by default.
+    - Embedded version of the Draw.io graphical diagram editor. Uses an offline version of Draw.io by default.
 
 ## Requirements
 
