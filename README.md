@@ -43,19 +43,20 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
     - This extension assumes that you have the binaries `npm` and `mvn` on your PATH.
   - [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+- Code linting
+  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+  - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- Angular, Ionic, React Native, NativeScript and TypeScript
+- Angular, Ionic, React, React Native and TypeScriptt
   - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
   - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
   - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
   - [Ionic Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=fivethree.vscode-ionic-snippets)
-  - [NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
-  - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
+  - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
   - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
   - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 - CSS
@@ -80,16 +81,11 @@ The extensions included in this pack involve several aspects as Remote Developme
 - C#
   - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 - Java
-  - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) that will install automatically:
-    - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
-    - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-    - [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
-    - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
-  - The following extensions add support and tools to develop **Spring Boot** Java applications:
-    - [Spring Boot Dashboard](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard)
-    - [Spring Boot Tools](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot)
-    - [Spring Initializr Java Support](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)
+  - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+  - [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
+  - [Community Server Connectors](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-community-server-connector)
   - In order to make Java work properly you must set the `java.home` variable in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_)
+  - In order to check the Java extensions for VS Code and test others available you can press F1 and choose **Java: Extension Guide**.
 - Key bindings
   - [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 - Docker
@@ -98,8 +94,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Press F1, choose **Color Theme** option and select **Cobalt**.
   - [Noctis - collection of light & dark themes](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) - Press F1, choose **Color Theme** option and select one of multiple schemes beginning with **Noctis**.
   - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Press F1, choose **File Icon Theme** option and select **VSCode Icons**.
-- Spell checking
-  - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 - AsciiDoc
   - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode)
 - XML
@@ -107,6 +101,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 - YAML
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 - Miscellaneous
+  - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
   - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
   - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
   - [Resource Monitor](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
