@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "4.9.0",
+  "version": "4.9.1",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -61,7 +61,7 @@
     "redhat.fabric8-analytics",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
-    "robertohuertasm.vscode-icons",
+    "vscode-icons-team.vscode-icons",
     "rust-lang.rust",
     "silverlakesoftware.searchdocsets-vscode",
     "swyphcosmo.spellchecker",
