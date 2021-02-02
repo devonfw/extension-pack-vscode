@@ -1,8 +1,8 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "4.9.1",
-  "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform",
+  "version": "5.0.0",
+  "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
   "publisher": "devonfw",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.51.0"
   },
   "categories": [
     "Extension Packs",
@@ -22,8 +22,10 @@
     "devonfw"
   ],
   "extensionPack": [
+    "42crunch.vscode-openapi",
     "alefragnani.project-manager",
     "angular.ng-template",
+    "asciidoctor.asciidoctor-vscode",
     "christian-kohler.path-intellisense",
     "CoenraadS.bracket-pair-colorizer",
     "dbaeumer.vscode-eslint",
@@ -35,21 +37,23 @@
     "formulahendry.code-runner",
     "github.vscode-pull-request-github",
     "hardikpthv.ngrxsnippets",
+    "hediet.vscode-drawio",
     "humao.rest-client",
     "jebbs.plantuml",
-    "asciidoctor.asciidoctor-vscode",
     "joelday.docthis",
     "johnpapa.Angular2",
     "liviuschera.noctis",
-    "42crunch.vscode-openapi",
     "ms-azuretools.vscode-docker",
     "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "ms-vscode.cpptools",
     "ms-vscode.csharp",
     "ms-vscode.sublime-keybindings",
     "ms-vscode.vscode-typescript-tslint-plugin",
     "MS-vsliveshare.vsliveshare-pack",
+    "msjsdiag.cordova-tools",
     "msjsdiag.debugger-for-chrome",
     "msjsdiag.vscode-react-native",
     "mutantdino.resourcemonitor",
@@ -61,17 +65,16 @@
     "redhat.fabric8-analytics",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
-    "vscode-icons-team.vscode-icons",
     "rust-lang.rust",
     "silverlakesoftware.searchdocsets-vscode",
     "swyphcosmo.spellchecker",
     "Tyriar.lorem-ipsum",
     "vscjava.vscode-java-pack",
-    "msjsdiag.cordova-tools",
+    "vscode-icons-team.vscode-icons",
     "WallabyJs.quokka-vscode",
     "wayou.vscode-todo-highlight",
     "wesbos.theme-cobalt2",
+    "wix.vscode-import-cost",
     "yycalm.linecount",
-    "hediet.vscode-drawio"
   ]
 }

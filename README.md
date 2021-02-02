@@ -59,6 +59,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
   - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
   - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+  - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - CSS
   - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Debuggers
@@ -76,6 +77,8 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
 - Python
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+  - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - C++
   - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - C#
