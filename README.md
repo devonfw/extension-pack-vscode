@@ -121,6 +121,7 @@ In order to install this package **Microsoft Visual Studio Code 1.51.0** at leas
 ### Python support
 
 The new Python extensions enable VS Code as a 1st class citizen Python IDE. We recommend to use tools like `pyenv` ([here](https://github.com/pyenv/pyenv) for Linux/macOS or [here](https://github.com/pyenv-win/pyenv-win) for Windows) to install multiple Python versions and make it local to every project.
+
 ### C/C++ support
 
 See [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp) for a Guide on how to configure and use the extension enabling C/C++ support for Visual Studio Code. This provides support for cross-platform C and C++ development using VS Code on Windows, Linux, and macOS.
