@@ -87,6 +87,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
   - [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
   - [Community Server Connectors](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-community-server-connector)
+  - [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
   - In order to make Java work properly you must set the `java.home` variable in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_)
   - In order to check the Java extensions for VS Code and test others available you can press F1 and choose **Java: Extension Guide**.
 - Key bindings
