@@ -6,16 +6,19 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Visual Studio Code Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - Team Collaboration
   - [VS Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-    - Please read the following instructions https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode
+    - Please read the following instructions <https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode>
 - Project Management
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - Code and documentation helpers
+
   - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
     - In order to avoid TS lint errors, you must set the `prettier.singleQuote` and `prettier.semi` variables to `true` in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_).
     - Another useful feature to avoid TS lint errors is to set the `prettier.trailingComma` variable to `all` to trail commas wherever possible.
     - Besides this, a `.prettierrc` JSON file can be included in the root folder of any Angular project with the following configuration:
+
     ```json
     {
       "singleQuote": true,
@@ -24,7 +27,9 @@ The extensions included in this pack involve several aspects as Remote Developme
       "semi": true
     }
     ```
+
     - Last but not least, the prettier configuration can be also included in every JavaScript/TypeScript project inside the `package.json` file adding its own key:
+
     ```json
     "prettier": {
       "singleQuote": true,
@@ -33,7 +38,9 @@ The extensions included in this pack involve several aspects as Remote Developme
       "semi": true
     }
     ```
-    - Refer to the official documentation https://prettier.io/docs/en/configuration.html for further details.
+
+    - Refer to the official documentation <https://prettier.io/docs/en/configuration.html> for further details.
+
   - [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
   - [Search Docsets](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
@@ -43,6 +50,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
     - This extension assumes that you have the binaries `npm` and `mvn` on your PATH.
   - [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+
 - Code linting
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
@@ -50,7 +58,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- Angular, Ionic, React, React Native and TypeScriptt
+- JavaScript and TypeScript
   - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
   - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
   - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
@@ -60,6 +68,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
   - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
   - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+  - [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) for **monorepos**. More info at <https://nx.dev/latest/angular/getting-started/console>.
 - CSS
   - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Debuggers
@@ -136,5 +145,5 @@ AsciiDoc extension comes with Asciidoctor.js library for preview bundled. If you
 In order to be able to use the AsciiDoc Ruby version you have to install **Ruby** on your system and the **Asciidoctor** tool running the following command in the terminal:
 
 ```bash
-$ gem install asciidoctor
+gem install asciidoctor
 ```
