@@ -71,8 +71,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) for **monorepos**. More info at <https://nx.dev/latest/angular/getting-started/console>.
 - CSS
   - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
-- Debuggers
-  - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - Git
   - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
