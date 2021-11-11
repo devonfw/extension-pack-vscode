@@ -58,6 +58,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - JavaScript and TypeScript
+
   - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
   - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
   - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
@@ -66,8 +67,18 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
   - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
   - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+
+    - In Linux/Mac environments and you use `nvm` as node.js version manager, if you get an error of kind `"node" is not defined` you can use the following setting to fix it:
+
+    ```json
+    "jest.nodeEnv": {
+      "PATH": "add here your local environment path with nvm"
+    },
+    ```
+
   - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
   - [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) for **monorepos**. More info at <https://nx.dev/latest/angular/getting-started/console>.
+
 - CSS
   - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - Git
