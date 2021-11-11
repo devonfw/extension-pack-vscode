@@ -68,7 +68,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
   - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
-    - In Linux/Mac environments and you use `nvm` as node.js version manager, if you get an error of kind `"node" is not defined` you can use the following setting to fix it:
+    - In Linux/Mac environments and you use `nvm` as node.js version manager, if you get an error of kind `/usr/bin/env: ‘node’: No such file or directory` you can use the following setting to fix it:
 
     ```json
     "jest.nodeEnv": {
