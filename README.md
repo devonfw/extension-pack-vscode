@@ -52,7 +52,6 @@ The extensions included in this pack involve several aspects as Remote Developme
 
 - Code linting
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
   - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
