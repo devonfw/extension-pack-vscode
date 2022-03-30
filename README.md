@@ -49,6 +49,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
     - This extension assumes that you have the binaries `npm` and `mvn` on your PATH.
   - [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+  - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 - Code linting
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)

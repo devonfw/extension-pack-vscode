@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "5.4.0",
+  "version": "5.4.1",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -72,6 +72,7 @@
     "silverlakesoftware.searchdocsets-vscode",
     "swyphcosmo.spellchecker",
     "Tyriar.lorem-ipsum",
+    "usernamehw.errorlens",
     "vscjava.vscode-java-pack",
     "vscode-icons-team.vscode-icons",
     "WallabyJs.quokka-vscode",
