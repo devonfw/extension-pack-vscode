@@ -92,7 +92,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 - UML
   - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - Rust
-  - [Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+  - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 - Python
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
