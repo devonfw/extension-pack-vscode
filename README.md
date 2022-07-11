@@ -81,6 +81,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 
 - CSS
   - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+  - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - Git
   - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
