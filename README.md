@@ -100,8 +100,8 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - C++
   - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-- C#
-  - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+- .NET
+  - [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
 - Java
   - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
   - [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
