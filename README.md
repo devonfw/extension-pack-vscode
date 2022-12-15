@@ -65,7 +65,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
   - [Ionic](https://marketplace.visualstudio.com/items?itemName=ionic.ionic)
   - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
-  - [NgRx Snippets](https://marketplace.visualstudio.com/itemdetails?itemName=hardikpthv.NgRxSnippets)
   - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
     - In Linux/Mac environments and you use `nvm` as node.js version manager, if you get an error of kind `/usr/bin/env: ‘node’: No such file or directory` you can use the following setting to fix it:

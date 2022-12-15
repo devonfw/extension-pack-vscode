@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -36,7 +36,6 @@
     "GabrielBB.vscode-lombok",
     "github.github-vscode-theme",
     "github.vscode-pull-request-github",
-    "hardikpthv.ngrxsnippets",
     "hediet.vscode-drawio",
     "humao.rest-client",
     "ionic.ionic",
