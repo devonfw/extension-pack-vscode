@@ -2,6 +2,9 @@
 
 The extensions included in this pack involve several aspects as Remote Development, Team Collaboration, Project Management, devonfw projects development, support for other interesting languages and technologies, code running, testing, linting and IDE configuration:
 
+> **IMPORTANT:** Please, remember to disable any of the following extensions in your workspace in case you are not allowed to use third party tools that require send code fragments to external services. More info at <https://code.visualstudio.com/docs/editor/extension-marketplace#_manage-extensions>. 
+
+
 - Remote Development
   - [Visual Studio Code Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - Team Collaboration
@@ -50,6 +53,10 @@ The extensions included in this pack involve several aspects as Remote Developme
     - This extension assumes that you have the binaries `npm` and `mvn` on your PATH.
   - [Print](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print)
   - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+  - [ScribeAI](https://marketplace.visualstudio.com/items?itemName=AndrewZhang.scribeai)
+    - Use ChatGPT & GPT right inside VSCode to enhance and automate your coding with AI-powered assistance.
+    - You need to create an OpenAPI key at <https://platform.openai.com/account/api-keys>. 
+    - **IMPORTANT:** Please, remember to disable it in your workspace in case you are not allowed to use third party tools such ChatGPT that require send code fragments to external services.
 
 - Code linting
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
