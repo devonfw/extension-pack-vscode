@@ -53,10 +53,6 @@ The extensions included in this pack involve several aspects as Remote Developme
     - This extension assumes that you have the binaries `npm` and `mvn` on your PATH.
   - [Print](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print)
   - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-  - [ScribeAI](https://marketplace.visualstudio.com/items?itemName=AndrewZhang.scribeai)
-    - Use ChatGPT & GPT right inside VSCode to enhance and automate your coding with AI-powered assistance.
-    - You need to create an OpenAPI key at <https://platform.openai.com/account/api-keys>. 
-    - **IMPORTANT:** Please, remember to disable it in your workspace in case you are not allowed to use third party tools such ChatGPT that require send code fragments to external services.
 
 - Code linting
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
