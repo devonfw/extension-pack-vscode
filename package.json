@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "6.0.1",
+  "version": "6.1.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.77.3"
   },
   "categories": [
     "Extension Packs",
@@ -79,6 +79,7 @@
     "wayou.vscode-todo-highlight",
     "wesbos.theme-cobalt2",
     "wix.vscode-import-cost",
+    "yoavbls.pretty-ts-errors",
     "yycalm.linecount"
   ]
 }
