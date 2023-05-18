@@ -59,7 +59,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-  - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - JavaScript and TypeScript
 
   - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
