@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "6.1.1",
+  "version": "6.1.2",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -63,7 +63,6 @@
     "pdconsec.vscode-print",
     "pivotal.vscode-boot-dev-pack",
     "pnp.polacode",
-    "pranaygp.vscode-css-peek",
     "redhat.fabric8-analytics",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
