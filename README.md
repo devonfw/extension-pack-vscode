@@ -1,9 +1,8 @@
 # devonfw VS Code extensions
 
-The extensions included in this pack involve several aspects as Remote Development, Team Collaboration, Project Management, devonfw projects development, support for other interesting languages and technologies, code running, testing, linting and IDE configuration:
+The extensions included in this pack involve several aspects as Remote Development, Team Collaboration, Project Management, Genarative AI to assist in coding, devonfw projects development, support for other interesting languages and technologies, code running, testing, linting and IDE configuration:
 
-> **IMPORTANT:** Please, remember to disable any of the following extensions in your workspace in case you are not allowed to use third party tools that require send code fragments to external services. More info at <https://code.visualstudio.com/docs/editor/extension-marketplace#_manage-extensions>. 
-
+> **IMPORTANT:** Please, remember to disable any of the following extensions in your workspace in case you are not allowed to use third party tools that require send code fragments to external services. More info at <https://code.visualstudio.com/docs/editor/extension-marketplace#_manage-extensions>.
 
 - Remote Development
   - [Visual Studio Code Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
@@ -12,6 +11,20 @@ The extensions included in this pack involve several aspects as Remote Developme
     - Please read the following instructions <https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode>
 - Project Management
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- Gen AI
+  - [Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+
+    - In order to use Code GPT and run a LLM **for free and locally without external communication**, please follow the next steps:
+      1. Download [Ollama.ai](https://ollama.ai/download) for your OS.
+      2. In a terminal run the following command to pull and run an available model. In our case we select `mistral`:
+      ```bash
+      $ ollama pull mistral
+      $ ollama run mistral
+      $ ollama serve
+      ```
+      3. Open CodeGPT Setting in VSCode and Select Ollama like a Provider.
+      4. Select one of the Ollama Models. In our case, again `mistral`.
+      5. Have fun and ask about your code. 
 - Code and documentation helpers
 
   - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
