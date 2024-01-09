@@ -16,15 +16,19 @@ The extensions included in this pack involve several aspects as Remote Developme
 
     - In order to use Code GPT and run a LLM **for free and locally without external communication**, please follow the next steps:
       1. Download [Ollama.ai](https://ollama.ai/download) for your OS.
-      2. In a terminal run the following command to pull and run an available model. In our case we select `mistral`:
+      2. In a terminal run the following command to pull and run an available model. In our case we select `codellama`:
       ```bash
-      $ ollama pull mistral
-      $ ollama run mistral
+      $ ollama pull codellama
+      $ ollama run codellama
       $ ollama serve
       ```
       3. Open CodeGPT Setting in VSCode and Select Ollama like a Provider.
-      4. Select one of the Ollama Models. In our case, again `mistral`.
-      5. Have fun and ask about your code. 
+      4. Select one of the Ollama Autocomplete Provider Models for Code GPT Copilot. In our case, `codellama`.
+      5. Now pull again with Ollama one of the compatible models  `mistral`, `zephyr` or `starling-lm` for the chat feature. For example:
+      ```bash
+      $ ollama pull mistral
+      ``````
+      6. Have fun and ask about your code. 
 - Code and documentation helpers
 
   - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
