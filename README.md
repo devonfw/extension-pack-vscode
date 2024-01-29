@@ -12,23 +12,27 @@ The extensions included in this pack involve several aspects as Remote Developme
 - Project Management
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - Gen AI
-  - [Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
+  - [Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+  
     - In order to use Code GPT and run a LLM **for free and locally without external communication**, please follow the next steps:
       1. Download [Ollama.ai](https://ollama.ai/download) for your OS.
-      2. In a terminal run the following command to pull and run an available model. In our case we select `codellama`:
+      2. In a terminal run the following command to pull one of the Code GPT Copilot available models. In our case we select `deepseek-coder`:
+      ```bash
+      $ ollama serve
+      # Open a new Terminal tab and run:
+      $ ollama pull deepseek-coder
+      $ ollama run deepseek-coder
+      ```
+      3. *OPTIONAL*. Also pull the `codegpt/deepseek-coder-1.3b-typescript` in case you want to use the TypeScript specialized model.
+      4. Open CodeGPT Setting in VSCode and Select Ollama in API Key selector.
+      5. Select one of the Ollama Autocomplete Provider Models for Code GPT Copilot. In our case, `deepseek-coder`.
+      6. Now pull again with Ollama one of the compatible models  `codellama`, `mistral`, `zephyr` or `starling-lm` for the chat feature. For example:
       ```bash
       $ ollama pull codellama
-      $ ollama run codellama
-      $ ollama serve
       ```
-      3. Open CodeGPT Setting in VSCode and Select Ollama like a Provider.
-      4. Select one of the Ollama Autocomplete Provider Models for Code GPT Copilot. In our case, `codellama`.
-      5. Now pull again with Ollama one of the compatible models  `mistral`, `zephyr` or `starling-lm` for the chat feature. For example:
-      ```bash
-      $ ollama pull mistral
-      ``````
-      6. Have fun and ask about your code. 
+      7. Have fun and ask about your code choosing one of the Ollama models pulled.
+
 - Code and documentation helpers
 
   - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
