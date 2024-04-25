@@ -13,25 +13,22 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - Gen AI
 
-  - [Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+  - [Twinny](https://marketplace.visualstudio.com/items?itemName=rjmacarthy.twinny)
   
-    - In order to use Code GPT and run a LLM **for free and locally without external communication**, please follow the next steps:
-      1. Download [Ollama.ai](https://ollama.ai/download) for your OS.
-      2. In a terminal run the following command to pull one of the Code GPT Copilot available models. In our case we select `deepseek-coder`:
+    - In order to use Twinny and run a LLM **for free and locally without external communication**, please follow the next steps:
+      1. Set up Ollama as the backend by default: [Install Ollama](https://ollama.com/)
+      2. Select your model from the Ollama library (e.g., `codellama:7b-instruct` for chats and `codellama:7b-code` for auto complete).
       ```bash
-      $ ollama serve
-      # Open a new Terminal tab and run:
-      $ ollama pull deepseek-coder
-      $ ollama run deepseek-coder
+      $ ollama run codellama:7b-instruct
+      $ ollama run codellama:7b-code
       ```
-      3. *OPTIONAL*. Also pull the `codegpt/deepseek-coder-1.3b-typescript` in case you want to use the TypeScript specialized model.
-      4. Open CodeGPT Setting in VSCode and Select Ollama in API Key selector.
-      5. Select one of the Ollama Autocomplete Provider Models for Code GPT Copilot. In our case, `deepseek-coder`.
-      6. Now pull again with Ollama one of the compatible models  `codellama`, `mistral`, `zephyr` or `starling-lm` for the chat feature. For example:
-      ```bash
-      $ ollama pull codellama
-      ```
-      7. Have fun and ask about your code choosing one of the Ollama models pulled.
+      3. Open VS Code (if already open a restart might be needed) and press Ctrl/Command + Shift + T to open the side panel. 
+      
+      You should see the 🤖 icon indicating that twinny is ready to use.
+      
+      4. See Keyboard shortcuts to start using while coding 🎉
+
+      For other providers and other configuration alternatives, please check official [documentation](https://github.com/rjmacarthy/twinny).
 
 - Code and documentation helpers
 
