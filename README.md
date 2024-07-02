@@ -99,8 +99,9 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) for **monorepos**. More info at <https://nx.dev/latest/angular/getting-started/console>.
   - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
-- CSS
+- SCSS and CSS
   - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+  - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 - Git
   - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)

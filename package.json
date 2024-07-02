@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.88.1"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Extension Packs",
@@ -44,6 +44,7 @@
     "johnpapa.Angular2",
     "liviuschera.noctis",
     "mhutchie.git-graph",
+    "mrmlnc.vscode-scss",
     "ms-azuretools.vscode-docker",
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "ms-python.python",
