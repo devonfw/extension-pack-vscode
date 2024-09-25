@@ -75,6 +75,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 - Code linting
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+  - Accessibility linting for HTML, Angular, React, Markdown, Vue, and React Native [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - JavaScript and TypeScript
