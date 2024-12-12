@@ -105,7 +105,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 - Git
   - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
   - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - Swagger and API definition

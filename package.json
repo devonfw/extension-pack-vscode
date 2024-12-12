@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "7.3.0",
+  "version": "7.3.1",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.93.1"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Extension Packs",
@@ -31,7 +31,6 @@
     "dcortes92.FreeMarker",
     "deque-systems.vscode-axe-linter",
     "donjayamanne.githistory",
-    "eamodio.gitlens",
     "esbenp.prettier-vscode",
     "formulahendry.code-runner",
     "GabrielBB.vscode-lombok",
