@@ -83,9 +83,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
   - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
   - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-  - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-  - [Ionic](https://marketplace.visualstudio.com/items?itemName=ionic.ionic)
-  - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
   - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
     - In Linux/Mac environments and you use `nvm` as node.js version manager, if you get an error of kind `/usr/bin/env: ‘node’: No such file or directory` you can use the following setting to fix it:
