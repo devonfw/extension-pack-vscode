@@ -1,0 +1,4 @@
+
+[tasks.publish]
+description = "Publish the package to the VSCode marketplace"
+run = "vsce publish"
