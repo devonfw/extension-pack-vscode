@@ -11,6 +11,8 @@ The extensions included in this pack involve several aspects as Remote Developme
     - Please read the following instructions <https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode>
 - Project Management
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+  - [Mise VSCode](https://marketplace.visualstudio.com/items?itemName=hverlin.mise-vscode)
+    - Please follow [these instructions](https://mise.jdx.dev/installing-mise.html) to install `mise` on your machine according to your OS and shell. 
 - Gen AI
 
   - [Twinny](https://marketplace.visualstudio.com/items?itemName=rjmacarthy.twinny)

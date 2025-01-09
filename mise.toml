@@ -1,4 +1,4 @@
 
 [tasks.publish]
-description = "Publish the package to the VSCode marketplace"
+description = "Publish the devonfw extension pack to the VSCode marketplace"
 run = "vsce publish"
