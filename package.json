@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "7.6.0",
+  "version": "7.7.0",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -12,7 +12,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.98.0"
   },
   "categories": [
     "Extension Packs",
@@ -26,6 +26,7 @@
     "alefragnani.project-manager",
     "angular.ng-template",
     "asciidoctor.asciidoctor-vscode",
+    "charliermarsh.ruff",
     "christian-kohler.path-intellisense",
     "Continue.continue",
     "dbaeumer.vscode-eslint",

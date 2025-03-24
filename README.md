@@ -113,6 +113,7 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
   - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+  - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
 - C++
   - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - .NET
