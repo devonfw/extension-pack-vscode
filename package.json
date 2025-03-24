@@ -1,7 +1,7 @@
 {
   "name": "devonfw-extension-pack",
   "displayName": "devonfw Platform Extension Pack",
-  "version": "7.7.0",
+  "version": "7.7.1",
   "description": "This pack contains the recommended extensions and tools to develop applications using the devonfw platform and others to work with technologies of growing importance",
   "icon": "devonfw-logo.png",
   "repository": "https://github.com/devonfw/extension-pack-vscode",
@@ -56,7 +56,6 @@
     "ms-vscode.cpptools",
     "ms-dotnettools.csdevkit",
     "ms-dotnettools.vscode-dotnet-pack",
-    "ms-vscode.vscode-typescript-tslint-plugin",
     "MS-vsliveshare.vsliveshare-pack",
     "mutantdino.resourcemonitor",
     "nrwl.angular-console",
