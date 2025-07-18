@@ -15,18 +15,6 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
   - [Mise VSCode](https://marketplace.visualstudio.com/items?itemName=hverlin.mise-vscode)
     - Please follow [these instructions](https://mise.jdx.dev/installing-mise.html) to install `mise` on your machine according to your OS and shell. 
-- Gen AI
-
-  - [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue)
-  
-    - In order to use Continue and run a LLM **for free and locally without external communication**, please follow the next steps:
-      1. Set up Ollama as the backend by default: [Install Ollama](https://ollama.com/)
-      2. Follow the instructions on [Continue's documentation for Ollama](https://docs.continue.dev/customize/model-providers/ollama).
-      3. (OPTIONAL) Pull with ollama DeepSeek-r1:7b and configure Continue to select it.
-
-      ```bash
-      $ ollama pull deepseek-r1:7b
-      ```  
 
 - Code and documentation helpers
 
