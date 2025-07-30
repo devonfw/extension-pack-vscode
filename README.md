@@ -141,7 +141,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 
 ### Microsoft Visual Studio Code
 
-In order to install this package **Microsoft Visual Studio Code 1.51.0** at least must be installed. It is recommended to upgrade VS Code in any case.
+In order to install this package a recent version of **Microsoft Visual Studio Code** must be installed. It is recommended to upgrade VS Code in any case.
 
 ### Python support
 
