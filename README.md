@@ -4,7 +4,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 
 > **IMPORTANT:** Please, remember to disable any of the following extensions in your workspace in case you are not allowed to use third party tools that require send code fragments to external services. More info at <https://code.visualstudio.com/docs/editor/extension-marketplace#_manage-extensions>.
 
-> **NOTE:** To ensure you are using the latest pack and not deprecated or not recommended extensions, remove all of them and reinstall the pack. 
+> **NOTE:** To ensure you are using the latest pack and not deprecated or not recommended extensions, remove all of them and reinstall the pack.
 
 - Remote Development
   - [Visual Studio Code Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
@@ -14,7 +14,7 @@ The extensions included in this pack involve several aspects as Remote Developme
 - Project Management
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
   - [Mise VSCode](https://marketplace.visualstudio.com/items?itemName=hverlin.mise-vscode)
-    - Please follow [these instructions](https://mise.jdx.dev/installing-mise.html) to install `mise` on your machine according to your OS and shell. 
+    - Please follow [these instructions](https://mise.jdx.dev/installing-mise.html) to install `mise` on your machine according to your OS and shell.
 
 - Code and documentation helpers
 
