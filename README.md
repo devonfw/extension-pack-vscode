@@ -144,7 +144,7 @@ In order to install this package a recent version of **Microsoft Visual Studio C
 
 ### Python support
 
-The new Python extensions enable VS Code as a 1st class citizen Python IDE. We recommend to use tools like `pyenv` ([here](https://github.com/pyenv/pyenv) for Linux/macOS or [here](https://github.com/pyenv-win/pyenv-win) for Windows) to install multiple Python versions and make it local to every project.
+The new Python extensions enable VS Code as a 1st class citizen Python IDE. We recommend to use tools like `pyenv` ([click here for more info](https://github.com/pyenv/pyenv) on Linux/macOS or [click here for more info](https://github.com/pyenv-win/pyenv-win) on Windows) to install multiple Python versions and make it local to every project.
 
 ### C/C++ support
 
