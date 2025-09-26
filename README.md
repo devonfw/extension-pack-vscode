@@ -130,7 +130,6 @@ The extensions included in this pack involve several aspects as Remote Developme
 - YAML
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 - Miscellaneous
-  - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
   - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
   - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
   - [Resource Monitor](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
