@@ -62,10 +62,15 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
   - Accessibility linting for HTML, Angular, React, Markdown, Vue, and React Native [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
+
+- Debugging
+  - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+  - [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer)
+
 - Code runners
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-- JavaScript and TypeScript
 
+- JavaScript and TypeScript
   - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
   - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
   - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
@@ -86,27 +91,35 @@ The extensions included in this pack involve several aspects as Remote Developme
 - SCSS and CSS
   - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
   - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+
 - Git
   - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
   - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
   - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
 - Swagger and API definition
   - [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42crunch.vscode-openapi)
   - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 - UML
   - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+
 - Rust
   - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+
 - Python
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
   - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
   - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
+
 - C++
   - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+
 - .NET
   - [.NET Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
   - [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+
 - Java
   - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
   - [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
@@ -114,21 +127,28 @@ The extensions included in this pack involve several aspects as Remote Developme
   - [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
   - In order to make Java work properly you must set the `java.home` variable in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_)
   - In order to check the Java extensions for VS Code and test others available you can press F1 and choose **Java: Extension Guide**.
+
 - Docker
   - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+
 - Kubernetes
   - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
+
 - Themes
   - [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Press F1, choose **Color Theme** option and select **Cobalt**.
   - [Noctis - collection of light & dark themes](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) - Press F1, choose **Color Theme** option and select one of multiple schemes beginning with **Noctis**.
   - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) - Press F1, choose **Color Theme** option and select one of multiple schemes beginning with **GitHub**.
   - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Press F1, choose **File Icon Theme** option and select **VSCode Icons**.
+
 - AsciiDoc
   - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode)
+
 - XML
   - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+
 - YAML
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
 - Miscellaneous
   - [LineCount](https://marketplace.visualstudio.com/items?itemName=yycalm.linecount)
   - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
